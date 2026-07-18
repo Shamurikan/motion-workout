@@ -1,0 +1,19 @@
+[
+  { "name": "Neck circles", "rounds": "4", "counts": "10" },
+  { "name": "Shoulder rotation", "rounds": "4", "counts": "10" },
+  { "name": "Arm circles", "rounds": "4", "counts": "10" },
+  { "name": "Arm circles opposite directions", "rounds": "4", "counts": "10" },
+  { "name": "Elbow circles", "rounds": "4", "counts": "10" },
+  { "name": "Wrist rotations", "rounds": "4", "counts": "10" },
+  { "name": "Hip rotation", "rounds": "4", "counts": "10" },
+  { "name": "Body circles", "rounds": "4", "counts": "10" },
+  { "name": "Inner tie and oblique", "rounds": "4", "counts": "10" },
+  { "name": "Lower back and hammer strings", "rounds": "4", "counts": "10" },
+  { "name": "Lounge tap", "rounds": "4", "counts": "10" },
+  { "name": "Side static luge", "rounds": "4", "counts": "10" },
+  { "name": "Front static lunge", "rounds": "4", "counts": "10" },
+  { "name": "Squat cross arms", "rounds": "4", "counts": "10" },
+  { "name": "Standing crunch", "rounds": "4", "counts": "10" },
+  { "name": "Butterflyes", "rounds": "4", "counts": "10" },
+  { "name": "Jumping jacks", "rounds": "6", "counts": "10" }
+]

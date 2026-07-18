@@ -1,0 +1,11 @@
+{
+  "restSeconds": 15,
+  "prep": {
+    "name": "Treadmill walk",
+    "durationMinutes": 15
+  },
+  "conditioning": {
+    "name": "Steady-state cardio",
+    "durationMinutesByStage": [30, 45, 60]
+  }
+}

@@ -1,0 +1,137 @@
+[
+  [
+    [
+      { "name": "Barbell back squats", "rounds": "6", "counts": "10" },
+      { "name": "Leg extensions", "rounds": "5", "counts": "15" },
+      { "name": "Dumbbell walking lunges", "rounds": "4", "counts": "15" },
+      { "name": "Lying leg curl", "rounds": "5", "counts": "15" },
+      { "name": "Dumbbell step up", "rounds": "5", "counts": "12" },
+      { "name": "Seated calf raises", "rounds": "5", "counts": "25" }
+    ],
+    [
+      { "name": "Lat pulldown", "rounds": "5", "counts": "15" },
+      { "name": "One arm dumbbell row", "rounds": "5", "counts": "10" },
+      { "name": "Seated cable row", "rounds": "5", "counts": "20" },
+      { "name": "Barbell deadlift", "rounds": "4", "counts": "10" },
+      { "name": "Back hyperextensions", "rounds": "7", "counts": "10" }
+    ],
+    [
+      { "name": "Barbell incline chest press", "rounds": "5", "counts": "15" },
+      { "name": "Machine pec deck", "rounds": "4", "counts": "20" },
+      { "name": "Decline dumbbell press", "rounds": "5", "counts": "10" },
+      { "name": "Smith machine incline chest press", "rounds": "4", "counts": "12" },
+      { "name": "Dumbbell pullover", "rounds": "4", "counts": "12" }
+    ],
+    ["Rest"],
+    [
+      { "name": "Standing barbell curl", "rounds": "5", "counts": "10" },
+      { "name": "Triceps rope pushdown", "rounds": "6", "counts": "10" },
+      { "name": "Dumbbell alternating curl", "rounds": "4", "counts": "12" },
+      { "name": "Ez bar skullcrusher", "rounds": "5", "counts": "10" },
+      { "name": "Dumbbell one arm preacher curl", "rounds": "5", "counts": "12" },
+      { "name": "Dumbbell triceps kickback", "rounds": "4", "counts": "15" },
+      { "name": "One arm cable curl", "rounds": "4", "counts": "15" },
+      { "name": "Dumbbell hammer curl", "rounds": "7", "counts": "10" }
+    ],
+    [
+      { "name": "Seated dumbbell side lateral raises", "rounds": "6", "counts": "10" },
+      { "name": "Standing barbell front raises", "rounds": "7", "counts": "10" },
+      { "name": "Bent overdumbbell rear delts raises", "rounds": "4", "counts": "15" },
+      { "name": "Seated dumbbell shoulder press", "rounds": "4", "counts": "12" },
+      { "name": "Rope crunches", "rounds": "5", "counts": "20" },
+      { "name": "Leg raises", "rounds": "7", "counts": "25" }
+    ]
+  ],
+  [
+    [
+      { "name": "Leg extensions", "rounds": "10", "counts": "10" },
+      { "name": "Leg press", "rounds": "6", "counts": "12" },
+      { "name": "Dumbbell step up", "rounds": "5", "counts": "12" },
+      { "name": "Sumo squats", "rounds": "6", "counts": "10" },
+      { "name": "Walking Dumbbell lunges", "rounds": "5", "counts": "15" },
+      { "name": "Dumbbell squats", "rounds": "5", "counts": "15" },
+      { "name": "Seated calf raises", "rounds": "5", "counts": "20" }
+    ],
+    [
+      { "name": "Bent over barbell row", "rounds": "5", "counts": "12" },
+      { "name": "One arm dumbbell row", "rounds": "4", "counts": "10" },
+      { "name": "Wide grip seated cable row", "rounds": "4", "counts": "15" },
+      { "name": "Lat pulldown", "rounds": "7", "counts": "10" },
+      { "name": "Seated close grip row", "rounds": "3", "counts": "20" }
+    ],
+    [
+      { "name": "Dumbbell incline chest press", "rounds": "5", "counts": "10" },
+      { "name": "Standing cable chest fly", "rounds": "4", "counts": "20" },
+      { "name": "Decline barbell press", "rounds": "4", "counts": "12" },
+      { "name": "Incline barbellchest press", "rounds": "4", "counts": "15" },
+      { "name": "Cable crossover", "rounds": "4", "counts": "12" }
+    ],
+    ["Rest"],
+    [
+      { "name": "Dumbbell contraction curl", "rounds": "4", "counts": "15" },
+      { "name": "Dumbbell preacher curl", "rounds": "5", "counts": "10" },
+      { "name": "Seated two arm dumbbell triceps extensions", "rounds": "4", "counts": "15" },
+      { "name": "Straight bar triceps pressdwon", "rounds": "4", "counts": "15" },
+      { "name": "Standing barbell curl", "rounds": "4", "counts": "10" },
+      { "name": "Two arm dumbbell curl", "rounds": "4", "counts": "12" },
+      { "name": "One arm cable triceps extensions", "rounds": "3", "counts": "20" },
+      { "name": "Reverse grip barbell curl", "rounds": "7", "counts": "10" }
+    ],
+    [
+      { "name": "Plate front raises", "rounds": "7", "counts": "10" },
+      { "name": "Reverse pec deck", "rounds": "5", "counts": "15" },
+      { "name": "Dumbbell side lateral raises", "rounds": "5", "counts": "20" },
+      { "name": "Arnold press", "rounds": "5", "counts": "12" },
+      { "name": "Cable side lateral raises", "rounds": "5", "counts": "15" },
+      { "name": "Behind the neck barbell press", "rounds": "3", "counts": "12" },
+      { "name": "Rope crunches", "rounds": "5", "counts": "20" },
+      { "name": "Leg raises", "rounds": "7", "counts": "25" }
+    ]
+  ],
+  [
+    [
+      { "name": "Front squats", "rounds": "6", "counts": "10" },
+      { "name": "Dumbbell squats", "rounds": "5", "counts": "15" },
+      { "name": "Lying leg curl", "rounds": "5", "counts": "15" },
+      { "name": "Barbell walking lunges", "rounds": "5", "counts": "15" },
+      { "name": "Leg extensions", "rounds": "6", "counts": "15" },
+      { "name": "Back squats", "rounds": "4", "counts": "10" },
+      { "name": "Seated calf raises", "rounds": "5", "counts": "25" }
+    ],
+    [
+      { "name": "Dumbbell two arm row", "rounds": "7", "counts": "10" },
+      { "name": "Underhand barbell row", "rounds": "5", "counts": "12" },
+      { "name": "V-bar pulldowns", "rounds": "5", "counts": "12" },
+      { "name": "Underhand close grip cable row", "rounds": "4", "counts": "10" },
+      { "name": "Barbell deadlift", "rounds": "7", "counts": "10" },
+      { "name": "Close grip seated row", "rounds": "3", "counts": "20" }
+    ],
+    [
+      { "name": "Incline barbell press", "rounds": "6", "counts": "10" },
+      { "name": "Decline dumbbell press", "rounds": "5", "counts": "12" },
+      { "name": "Incline bench dumbbell fly", "rounds": "6", "counts": "15" },
+      { "name": "Pec deck", "rounds": "5", "counts": "15" },
+      { "name": "Incline dumbbell press", "rounds": "4", "counts": "20" }
+    ],
+    ["Rest"],
+    [
+      { "name": "Dumbbell hammer curl", "rounds": "7", "counts": "10" },
+      { "name": "One arm triceps cable pushdown", "rounds": "5", "counts": "15" },
+      { "name": "Dumbbell kickbacks", "rounds": "4", "counts": "15" },
+      { "name": "Standing cable curl", "rounds": "5", "counts": "12" },
+      { "name": "Dumbbell alternating curl", "rounds": "5", "counts": "12" },
+      { "name": "Rope pushdown", "rounds": "5", "counts": "15" },
+      { "name": "Barbell preacher curl", "rounds": "4", "counts": "15" },
+      { "name": "Reverse ez bar curl", "rounds": "5", "counts": "10" }
+    ],
+    [
+      { "name": "One arm dumbbell side lateral raises", "rounds": "7", "counts": "10" },
+      { "name": "Dumbbell front raises", "rounds": "6", "counts": "10" },
+      { "name": "Cable rear delts raises", "rounds": "7", "counts": "10" },
+      { "name": "Barbell shoulder press", "rounds": "6", "counts": "10" },
+      { "name": "Cable side lateral raises", "rounds": "4", "counts": "20" },
+      { "name": "Rope crunches", "rounds": "5", "counts": "20" },
+      { "name": "Leg raises", "rounds": "7", "counts": "25" }
+    ]
+  ]
+]

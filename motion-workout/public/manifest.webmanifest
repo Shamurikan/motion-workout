@@ -1,0 +1,17 @@
+{
+  "name": "Motion Workout",
+  "short_name": "Motion",
+  "description": "A focused, JSON-powered workout companion.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080b10",
+  "theme_color": "#080b10",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
